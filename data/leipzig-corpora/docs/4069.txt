@@ -1,0 +1,1 @@
+Die Vorzeichenfunktion ist üblicherweise durch : definiert.

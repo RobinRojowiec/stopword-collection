@@ -1,0 +1,1 @@
+Vor der Decodierung muss der gesamte Block des Codes erfasst worden sein.

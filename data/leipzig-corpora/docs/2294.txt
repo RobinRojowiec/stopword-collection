@@ -1,0 +1,1 @@
+Der 1988 veröffentlichte IEEE-Standard 1003 zum „ Portable Operating System Interface “ for UNIX wurde hernach mit der Abkürzung POSIX (heute „POSIX.1“) bekannt.

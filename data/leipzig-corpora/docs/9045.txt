@@ -1,0 +1,1 @@
+Über die Deformation des 3D-Objekts können Pixel in diesem 3D-Raum gezielt ein- oder ausgeschlossen werden.

@@ -1,0 +1,1 @@
+Der Durchlauf durch eine Notfallstation erfolgt abhängig vom gemessenen Kontaminationslevel und der daraus resultierenden Dekontamination in mehreren Schritten.

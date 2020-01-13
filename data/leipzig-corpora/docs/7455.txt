@@ -1,0 +1,1 @@
+Münzenschach/Pfennigschach In dieser Spielart wird zu Spielbeginn eine Münze auf das Feld e4 gesetzt.

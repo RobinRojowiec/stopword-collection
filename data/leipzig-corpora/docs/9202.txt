@@ -1,0 +1,1 @@
+Variationen M-Coffee M-Coffee ist ein spezieller Modus von T-Coffee, der es ermöglicht, die Ausgabe verschiedener Multiple-Sequence-Alignment-Pakete (Muscle, ClustalW, Mafft, ProbCons, etc.) zu kombinieren.

@@ -1,0 +1,1 @@
+Weiterhin kann ein Spieler aussprechen, dass er „heiß“ ist, sobald er zwei Becher in Folge trifft und schließlich „brennt“ er, wenn der dritte Becher in Folge getroffen wird.

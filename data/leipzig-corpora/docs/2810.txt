@@ -1,0 +1,1 @@
+Die Ablaufverfolgung (englisch ) bezeichnet in der Programmierung eine Funktion zur Analyse von oder Fehlersuche in Programmen.

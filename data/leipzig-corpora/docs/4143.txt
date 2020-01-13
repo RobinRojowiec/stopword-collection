@@ -1,0 +1,1 @@
+Dimension einer abgeleiteten Größe Die Dimension einer abgeleiteten Größe drückt den Bezug ihrer kohärenten Einheit zu den Basiseinheiten als Produkt von Potenzen (Potenzprodukt) aus.

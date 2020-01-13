@@ -1,0 +1,1 @@
+In anderen Industrien (Automobil, Luftfahrt, Elektronik usw.) und Distributionen (Pharmahandel) werden andere eindeutige Nummernsysteme gemäß ISO Normen verwendet, die unter anderen auch den DataMatrix Code als Datenträger verwenden.

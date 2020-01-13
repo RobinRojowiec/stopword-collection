@@ -1,0 +1,1 @@
+Dynamischer Kontaktwiderstand Beim Messen des Dynamischen Kontaktwiderstand (DCR) bestimmt man das Verhalten des Reedschalters speziell an der Kontaktstelle besonders im Hinblick auf Verschmutzungen.

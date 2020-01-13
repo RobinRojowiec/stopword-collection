@@ -1,0 +1,1 @@
+Mit der Qt-Übernahme kamen auch Standorte in Berlin und Oslo hinzu.

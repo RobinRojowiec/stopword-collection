@@ -1,0 +1,1 @@
+Im Spezialfall einer Drehung um 180° (Drehwinkel ) entsteht eine Punktspiegelung am Schnittpunkt von Drehachse und Spiegelebene.

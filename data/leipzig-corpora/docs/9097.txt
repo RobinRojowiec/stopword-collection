@@ -1,0 +1,1 @@
+Um die Metadaten zu schützen, liegen diese am Anfang einer Diskgroup und sind über mehrere Platten verteilt.

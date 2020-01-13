@@ -1,0 +1,1 @@
+Der Client muss dann versuchen, diesen Namen auf anderem Weg weiter aufzulösen.

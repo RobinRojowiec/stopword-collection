@@ -1,0 +1,1 @@
+So weisen beispielsweise Pt/PtRh10-Thermoelemente (Typ S) bei Raumtemperatur einen Wert von etwa 0,65 mV/100 K auf der bei 1000 °C auf Werte von 1,2 mV/100 K ansteigt.

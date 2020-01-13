@@ -1,0 +1,1 @@
+MS-DOS und die auf MS-DOS aufbauenden Windowsvarianten ( Windows 95 bis Windows Me ) überschreiben den Bootloader im MBR bei der Installation ohne Rücksicht auf seinen bisherigen Inhalt.

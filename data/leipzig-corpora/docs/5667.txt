@@ -1,0 +1,1 @@
+Helligkeit/Brillanz Die Leuchtdichte beziehungsweise Helligkeit eines LED-Systems wird in der Einheit NIT angegeben.

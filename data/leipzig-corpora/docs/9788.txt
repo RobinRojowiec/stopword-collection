@@ -1,0 +1,1 @@
+Zudem wurde an der Unterstützung für das VP8 -Format sowie an der Übersetzung und der Beseitigung diverser Fehler gearbeitet.

@@ -1,0 +1,1 @@
+Beim URL-Rewriting wird ein Proxy zwischen Webserver und Internet installiert, der in speziellen Logdateien die Datenverkehrsdaten speichert und dabei gleichzeitig zusätzliche Informationen (Session-IDs) in die URL schreibt.

@@ -1,0 +1,1 @@
+Für Zweiräder werden Kennzeichen ausgegeben, bei denen der erste Teil aus Platzgründen lediglich aus einer Ziffer und einem Buchstaben besteht.

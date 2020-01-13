@@ -1,0 +1,1 @@
+Im zweiten Modus sind im Vergleich zum ASCII-Zeichensatz die Positionen der Groß- und Kleinbuchstaben vertauscht und die Großbuchstaben zu höheren Codes verlegt, so dass jeder Großbuchstabe durch Addition von 64 zum Kleinbuchstabencode zustande kommt.

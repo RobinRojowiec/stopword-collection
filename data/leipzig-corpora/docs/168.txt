@@ -1,0 +1,1 @@
+Aber auch hier ist die Mitarbeit des Herstellers wichtig, da Reverse Engineering (Herausfinden der Funktionsweise) bei Hardware viel schwieriger als bei Software ist.

@@ -1,0 +1,1 @@
+Zeilentrennung Die jeweilige Software versucht nach Ausschöpfen der verfügbaren Zeilenbreite möglichst dicht am Rand (innerhalb eines Randbereichs, beispielsweise eines Zentimeters) eine Trennmöglichkeit zu finden.

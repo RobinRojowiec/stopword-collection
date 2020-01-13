@@ -1,0 +1,1 @@
+Abfragesprache versus Datenbanksprache Die Begriffe Abfragesprache und Datenbanksprache werden manchmal fälschlicherweise synonym verwendet.

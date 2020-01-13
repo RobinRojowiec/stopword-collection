@@ -1,0 +1,1 @@
+Ein zyklischer Graph ist ein Graph mit mindestens einem Zyklus.

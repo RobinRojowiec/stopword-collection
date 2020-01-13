@@ -1,0 +1,1 @@
+In näherungsweisen Lösungen der Quantenmechanik wie dem Bohr-Sommerfeldschen Atommodell und in der WKB-Näherung für stationäre Systeme muss diese Größe ein Vielfaches des planckschen Wirkungsquantums sein.

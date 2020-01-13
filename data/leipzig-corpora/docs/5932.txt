@@ -1,0 +1,1 @@
+Im dritten Schritt abstrahiert die schwache Base Pyridin das Proton aus dem ersten Schritt, wodurch ein Enolat entsteht.

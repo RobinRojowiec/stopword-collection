@@ -1,0 +1,1 @@
+Dieser verfügt über ein kleines LCD und Anschlüsse für verschiedene Sensoren, etwa Temperatur-, Licht-, Rotations- und Berührungssensoren, sowie für Elektromotoren und Leuchtsteine.

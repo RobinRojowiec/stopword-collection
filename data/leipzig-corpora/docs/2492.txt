@@ -1,0 +1,1 @@
+Der Installer lädt bei der Installation ungefragt Drittanbieter-Inhalte von fremden Websites herunter, über die weder SourceForge noch Tim Kosse Kontrolle haben, sodass diese Anbieter die Sicherheit des Downloads nicht mehr garantieren können.

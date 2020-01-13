@@ -1,0 +1,1 @@
+Ein Spieler gilt erst als getroffen, wenn der Ball nach dem Kontakt mit dem Spieler den Boden berührt.

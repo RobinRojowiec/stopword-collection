@@ -1,0 +1,1 @@
+Der Dekorierer hat die gleiche Schnittstelle wie die zu dekorierende Klasse.

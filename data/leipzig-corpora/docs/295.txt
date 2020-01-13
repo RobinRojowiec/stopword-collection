@@ -1,0 +1,1 @@
+Als CPU dient ein auf 1,4 GHz getakteter Single-Core-Prozessor ( Snapdragon MSM8255 Scorpion ), der 512 Megabyte Arbeitsspeicher (SDRAM) sowie einen acht Gigabyte großen internen Massenspeicher verwaltet.

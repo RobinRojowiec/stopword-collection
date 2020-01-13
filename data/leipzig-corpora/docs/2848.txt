@@ -1,0 +1,1 @@
+Die Architektur des ChorusOS, 1. Kapitel, 6.1 Unterkapitel, 1. Absatz: Mikrokernel Die Beschreibungen des Mikrokernels sind in den veröffentlichten Dokumenten unterschiedlich.

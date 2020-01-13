@@ -1,0 +1,1 @@
+Bei Webserver-Zertifikaten kann zur Steigerung der Vertrauenswürdigkeit eine extended Validation vorgenommen werden.

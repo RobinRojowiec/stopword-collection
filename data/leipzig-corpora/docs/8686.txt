@@ -1,0 +1,1 @@
+Sie wurde zusammen mit XML standardisiert, zu einem Zeitpunkt, an dem XML noch hauptsächlich für „narrative documents“ („erzählende Dokumente“, also Zeitungsartikel, Bücher, …) gedacht war, weniger als Datenaustauschformat.

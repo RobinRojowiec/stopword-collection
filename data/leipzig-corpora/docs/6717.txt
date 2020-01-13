@@ -1,0 +1,1 @@
+In vielen Fällen vergleicht man im Rahmen einer Identitätsprüfung auch eine Probe mit einer älteren Analyse aus der Grundprüfung des Produkts, um mögliche Veränderungen zu erkennen.

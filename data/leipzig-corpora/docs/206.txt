@@ -1,0 +1,1 @@
+ADeX in der Anwendung Datengeber haben die Möglichkeit, eine von ihnen erzeugte ADeX-Datei mit Hilfe eines PC-Programms zu testen, um festzustellen, ob der Standard eingehalten wurde.

@@ -1,0 +1,1 @@
+Eine präadditive Kategorie ist eine über der Kategorie der abelschen Gruppen mit dem üblichen Tensorprodukt angereicherte Kategorie.

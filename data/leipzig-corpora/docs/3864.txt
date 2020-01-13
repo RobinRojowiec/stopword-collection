@@ -1,0 +1,1 @@
+Diese zwei Pings erzeugen durch ihre breite Fächerform eine große Anzahl an Echos, ohne dass jedoch die Richtung, aus der diese Echos kommen, bekannt wäre; die einzigen bekannten Parameter sind die Dauer ihrer Laufzeit und ihre Intensität.

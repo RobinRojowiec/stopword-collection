@@ -1,0 +1,1 @@
+Dadurch ist es möglich, nicht nur Konstruktoren sondern auch Funktionsaufrufe beim Pattern Matching einzusetzen, die die darin vorkommenden Variablen nicht notwendigerweise eindeutig belegen.

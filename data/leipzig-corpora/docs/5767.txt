@@ -1,0 +1,1 @@
+Hinweis zur Grafik im ersten Schritt werden die grünen Kräfte der oberen Grafik berechnet, damit werden diese Rot und erst anschließend werden die grünen Pfeile der unteren Grafik berechnet.

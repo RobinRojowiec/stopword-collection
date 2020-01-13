@@ -1,0 +1,1 @@
+So können Komponenten wie Navigation, Baumansicht, Datagrid oder Datumsauswahl einzeln in eine Webseite integriert werden.

@@ -1,0 +1,1 @@
+Weiterhin wird das LR ab einem Wert von 100 als Performance Number (PN) bezeichnet.

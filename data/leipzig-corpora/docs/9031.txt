@@ -1,0 +1,1 @@
+Typprüfung heißt hier, dass ein Algorithmus keinen Beweis zu finden hat, sondern diesen nur zu überprüfen braucht.

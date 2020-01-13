@@ -1,0 +1,1 @@
+Teilweise werden Matrizen mit Einträgen zwischen 0 und 1, deren Zeilensummen (bzw.

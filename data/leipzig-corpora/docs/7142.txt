@@ -1,0 +1,1 @@
+Logische Topologie Die logische Topologie von Rechnernetzen kann von der physischen abweichen.

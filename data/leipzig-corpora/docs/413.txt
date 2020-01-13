@@ -1,0 +1,1 @@
+Als zweite Mac-Generation mit auf der Hauptplatine verlöteter 601 CPU, hatten die 7200er Taktfrequenzen von 75–120 MHz, drei PCI Steckplätzen und vier RAM-Steckplätzen, 1 MB VRAM und drei freie Steckplätzen zu dessen Erweiterung.

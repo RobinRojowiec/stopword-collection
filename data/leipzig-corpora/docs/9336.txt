@@ -1,0 +1,1 @@
+Vogel schlägt eine besondere Notation für Ober- und Unterklänge vor. Oberklänge werden durch ein O gekennzeichnet, Unterklänge durch ein U. Der Bezugston wird als Kleinbuchstabe angegeben.

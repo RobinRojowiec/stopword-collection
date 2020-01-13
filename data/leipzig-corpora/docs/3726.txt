@@ -1,0 +1,1 @@
+Diese Rechenweise ist wesentlich weniger aufwändig als die Lösung der Schrödingergleichung mit Elektronen zugleich, weil es sich um voneinander unabhängige Lösungen einer Schrödingergleichung handelt (keine Slater-Determinante ).

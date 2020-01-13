@@ -1,0 +1,1 @@
+Als Tiefe eines Knotens bezeichnet man die Länge des Pfades von der Wurzel zu ihm und als Höhe des Baumes die Länge eines längsten Pfades, der immer von der Wurzel zu einem Blatt laufen muss.

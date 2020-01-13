@@ -1,0 +1,1 @@
+Über Infrarotsensoren wird die Höhe der Handbewegungen ermittelt und mit der Vorgabe auf dem TV-Bildschirm abgeglichen, bei der Dreamcastversion mittels Ultraschall.

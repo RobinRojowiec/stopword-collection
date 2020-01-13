@@ -1,0 +1,1 @@
+Im Gegensatz zu passiven RFID-Systemen mit Reichweiten von nur wenigen Metern ist die Kennung dadurch bis in eine Entfernung von rund 100 Metern mit entsprechenden resident oder stationär angebrachten Sensoren lesbar.

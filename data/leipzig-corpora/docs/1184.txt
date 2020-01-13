@@ -1,0 +1,1 @@
+Bei den „gleitenden“ Figuren wie Türmen, Läufer und Dame ist die Zugmöglichkeit komplexer, da Figuren bestimmte Zielfelder blockieren können, ohne diese selbst zu belegen.

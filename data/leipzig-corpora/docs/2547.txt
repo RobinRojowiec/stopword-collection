@@ -1,0 +1,1 @@
+Der nächste Schritt ist ein Test, den nur Primzahlen und starke Pseudoprimzahlen (zur Basis a) bestehen.

@@ -1,0 +1,1 @@
+So konnte man Befehle aus einer Menüstruktur auswählen, was nicht so versierten Administratoren und besonders Anwendern komplizierte Funktionen erleichterte.

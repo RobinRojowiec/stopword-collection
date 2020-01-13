@@ -1,0 +1,1 @@
+Diese dauern jeweils maximal 10 ms lang und wiederholen sich langsam abklingend während jeder Wechselspannungs-Periode.

@@ -1,0 +1,1 @@
+Für eine Gutschrift ist ein Zugriff auf das Wallet nicht erforderlich, und ohne die darin befindlichen Schlüssel können keine Beträge abgebucht werden.

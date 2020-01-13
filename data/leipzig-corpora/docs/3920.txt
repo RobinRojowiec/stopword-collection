@@ -1,0 +1,1 @@
+Dies setzt voraus, dass das Bordradar für den Zielanflug der Lenkwaffe ununterbrochen Radarsignale in Richtung des Zieles aussendet.

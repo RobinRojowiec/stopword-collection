@@ -1,0 +1,1 @@
+Eine Teergrube (engl. Tarpit, dt. auch Teerfalle) stellt ein Verfahren dar, mit dem unerwünschte Netzwerkverbindungen künstlich verlangsamt werden und der Verbindungspartner möglichst lange blockiert wird.

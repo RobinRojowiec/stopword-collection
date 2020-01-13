@@ -1,0 +1,1 @@
+Das Verfahren zur Berechnung von Gemischeigenschaften aus ursprünglichen nur für Reinstoffeigenschaften benutzten Modellen wird als Mischungsregel bezeichnet.

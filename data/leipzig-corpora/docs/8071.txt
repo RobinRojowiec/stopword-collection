@@ -1,0 +1,1 @@
+Realisierungsverfahren Direktes Verfahren Hier wird das Ausgangssignal durch so viele Widerstände in einem Spannungsteiler erzeugt wie es Stufen gibt; jeder Widerstand ist gleich gewichtet.

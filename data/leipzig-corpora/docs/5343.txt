@@ -1,0 +1,1 @@
+Für eine Feistelchiffre mit nur einer Runde, kann man mit diesem Wissen bestimmte Schlüssel ausschließen.

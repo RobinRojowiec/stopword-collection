@@ -1,0 +1,1 @@
+Trotzdem kann dieses Verfahren ebenfalls zu einem Performance-Problem führen, wenn sich hinter einem Router viele verschiedene Quellen befinden und sich viele Multicast-Empfänger häufig an- und abmelden.

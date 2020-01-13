@@ -1,0 +1,1 @@
+Einige Sharehoster speichern die IP-Adressen der Uploader zusammen mit Uhrzeit und Datum.

@@ -1,0 +1,1 @@
+Auch die später als CCITT International Alphabet No. 1 genormte Version weicht in der Belegung der Sonderzeichen von Baudots Version ab, die Position der 26 Buchstaben und der Ziffern 0 bis 9 ist jedoch immer gleich geblieben.

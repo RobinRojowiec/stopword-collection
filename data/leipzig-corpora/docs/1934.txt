@@ -1,0 +1,1 @@
+Das erste Integral wird wie bei der Impulsbilanz mit dem Reynolds’schen Transportsatz berechnet: : Der unterklammerte Term trägt auf Grund der Massenbilanz nichts bei.

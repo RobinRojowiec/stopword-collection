@@ -1,0 +1,1 @@
+WOW64 ist in allen 64-Bit -Versionen von Windows seit Windows 2000 bzw. Microsoft Windows XP enthalten.

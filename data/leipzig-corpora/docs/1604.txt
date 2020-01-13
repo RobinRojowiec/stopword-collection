@@ -1,0 +1,1 @@
+Dabei kann so lange aufgenommen werden, bis der interne Speicher von 20 MB voll ist.

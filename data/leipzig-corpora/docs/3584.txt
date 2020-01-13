@@ -1,0 +1,1 @@
+Die resultierende Matrix ergibt sich dabei durch Multiplikation der jeweils entsprechenden Einträge der beiden Ausgangsmatrizen.

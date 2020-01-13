@@ -1,0 +1,1 @@
+Geschwindigkeit Ebenso wie bei der Größe, wird auch bei der Geschwindigkeit zwischen dem gesamten DIMM und den einzelnen Chips unterschieden.

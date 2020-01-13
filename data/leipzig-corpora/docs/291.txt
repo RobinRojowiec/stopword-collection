@@ -1,0 +1,1 @@
+Als Betriebssystem kommt auf den Rechenprozessoren Catamount (basierend auf dem bei ASCI Red verwendeten Cougar) sowie auf den Kommunikationsprozessoren eine Variante von Linux zum Einsatz.

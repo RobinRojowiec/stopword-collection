@@ -1,0 +1,1 @@
+Die räumliche Lage der Streichlinie wird definiert durch den Streichwinkel, den diese mit der Nordrichtung bildet.

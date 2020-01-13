@@ -1,0 +1,1 @@
+Meist ist es möglich, beliebige Werte in bestimmten Stufen auszudrucken.

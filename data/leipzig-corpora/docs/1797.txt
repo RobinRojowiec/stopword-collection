@@ -1,0 +1,1 @@
+Dann berechnet man den SSK der Datei, indem die öffentliche Hälfte des Subspace Key und die beschreibende Zeichenkette unabhängig voneinander gehasht werden, die Ergebnisse verkettet werden und das Ergebnis dann wieder gehasht wird.

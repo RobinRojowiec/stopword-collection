@@ -1,0 +1,1 @@
+Die Entropie des Zustands (der nicht notwendigerweise ein Gleichgewichtszustand sein muss) lässt sich mit Hilfe der Gibbs-Ungleichung wie folgt abschätzen: : Sei die Dichteverteilung des Gleichgewichtszustands des kanonischen Ensembles.

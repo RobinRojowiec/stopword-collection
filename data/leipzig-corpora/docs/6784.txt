@@ -1,0 +1,1 @@
+Je höher die Buchungsklasse und je länger die geflogene Strecke, desto mehr Punkte.

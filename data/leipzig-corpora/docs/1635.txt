@@ -1,0 +1,1 @@
+Da der Quellcode üblicherweise auf eine oder mehrere einzelne Dateien verteilt wird, kann die Metrik (je nach Art) auf den ganzen Quellcode oder Teile davon angewendet werden.

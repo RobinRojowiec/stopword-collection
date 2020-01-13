@@ -1,0 +1,1 @@
+Da beim Balancieren nur noch eine geringe Nachladung der Batterie erfolgt, kann die Ladung akkuschonend vorzeitig abgebrochen werden und so diese Spannungsbereiche gemieden werden.

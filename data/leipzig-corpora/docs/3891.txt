@@ -1,0 +1,1 @@
+Dies kann bei dem Empfänger zu einer deutlichen Steigerung der Bitfehlerrate und zu einem Verbindungsabbruch führen.

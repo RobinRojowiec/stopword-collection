@@ -1,0 +1,1 @@
+Kociemba bestimmte für jedes dieser magischen Quadrate die minimale Anzahl von Zügen, die ausgehend von der Start-Anordnung erforderlich ist.

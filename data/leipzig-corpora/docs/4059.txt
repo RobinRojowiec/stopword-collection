@@ -1,0 +1,1 @@
+Die virtuelle Maschine von Waba heißt WabaVM und kann Programme ausführen, die in einer Teilmenge der Programmiersprache Java implementiert wurden.

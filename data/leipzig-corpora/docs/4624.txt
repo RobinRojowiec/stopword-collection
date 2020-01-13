@@ -1,0 +1,1 @@
+Epics können insofern nicht direkt in Software-Coding umgesetzt werden, sondern bedürfen der Detaillierung, die unter Scrum in der Vorbereitung eines Sprint -Planungsmeetings geschieht.

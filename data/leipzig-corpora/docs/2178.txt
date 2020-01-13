@@ -1,0 +1,1 @@
+Das Zustandsdiagramm ( ) ist eine der 14 Diagrammarten der Sprache UML für Software und andere Systeme.

@@ -1,0 +1,1 @@
+Die Matrix Q und der zugehörige Markov-Prozess werden als konservativ bezeichnet, wenn alle Zeilensummen von Q Null sind; dies ist genau dann der Fall, wenn für alle gilt.

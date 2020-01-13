@@ -1,0 +1,1 @@
+Sie sollten davon ausgehen, dass das Protokoll ( Logdatei ) genügend Informationen enthält, um herauszubekommen, von wem der Artikel geschickt wurde, auch wenn dies nicht im Usenet-Artikel zu ersehen ist.

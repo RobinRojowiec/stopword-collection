@@ -1,0 +1,1 @@
+Im letzteren Fall kann das System für das Straßen-Objekt auch alternative Objektarten wie „Brücke“ oder „Fährverbindung“ vorschlagen und letztendlich den Nutzer bei der Beschreibung unterstützen.

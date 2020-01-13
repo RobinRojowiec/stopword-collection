@@ -1,0 +1,1 @@
+Das Symbol am Beginn jedes Systems ist ein C-Schlüssel, der durch seine Position in etwa dem heutigen Tenorschlüssel entspricht.

@@ -1,0 +1,1 @@
+Hier soll die Klangqualität mit Hilfe der Frequenzbandfaltung auch Vorbis deutlich überlegen und sogar ähnlich der von HE-AACv1 sein.

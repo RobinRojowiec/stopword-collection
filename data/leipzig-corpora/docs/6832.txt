@@ -1,0 +1,1 @@
+Kann zwischen mehreren mathematisch korrekten Lösungen anhand von Nebenbedingungen ausgewählt werden, lässt sich die Zahl der notwendigen bekannten Punkte um die Zahl der nutzbaren Nebenbedingungen reduzieren.

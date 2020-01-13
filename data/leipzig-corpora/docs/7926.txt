@@ -1,0 +1,1 @@
+Optionen: Drei Optionen von rm sind durch POSIX festgelegt: ; -f : Force (Erzwingen): Keine Rückfrage bei fehlendem Schreibrecht und keine Fehlermeldungen bei nicht existierenden Dateinamen, somit auch keine Änderung des Exit-Status.

@@ -1,0 +1,1 @@
+Auch die Core-2 -Mikroarchitektur, auf die Intel nach Problemen mit der NetBurst-Architektur zurückkam, basiert auf dem P6-Kern.

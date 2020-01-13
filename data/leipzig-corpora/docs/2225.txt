@@ -1,0 +1,1 @@
+Definition von Ackermann Ackermann selbst definierte die Funktion auf recht umständliche Weise, gab aber kurz darauf die folgende äquivalente Definition an. : : : Dabei ist eine weitere Funktion, die Ackermann nicht weiter beschrieb.

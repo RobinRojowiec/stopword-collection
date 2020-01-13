@@ -1,0 +1,1 @@
+Wenn man die Generationenfolge nur weit genug in die Vergangenheit verfolgt, ist Ahnenverlust mathematisch unvermeidbar, da sich die Anzahl der Voreltern-Nummern in jeder Voreltern-Generation verdoppelt, in der n-ten Voreltern-Generation also 2 n beträgt.

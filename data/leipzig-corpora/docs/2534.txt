@@ -1,0 +1,1 @@
+Der Minenpflug sollte automatisch gesteuert werden, um eine konstante Räumtiefe zu erzielen.

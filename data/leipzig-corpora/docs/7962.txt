@@ -1,0 +1,1 @@
+Parameter, die nur für einen Knoten Gültigkeit haben :* DB2-Exemplarliste.

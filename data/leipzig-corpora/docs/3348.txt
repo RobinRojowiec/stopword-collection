@@ -1,0 +1,1 @@
+Die Klappe wird nach deren Betätigung hier motorisch geöffnet.

@@ -1,0 +1,1 @@
+Das Bild eines Koordinatenvektors kann man dann so berechnen: : Dabei ist der Bildvektor, der Vektor, der abgebildet wird, jeweils in den zur gewählten Basis ihres Raumes gehörenden Koordinaten.

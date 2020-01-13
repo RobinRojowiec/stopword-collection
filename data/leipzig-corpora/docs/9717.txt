@@ -1,0 +1,1 @@
+XSP-Seiten sind im Gegensatz zu normalen Server Pages XML-Dokumente.

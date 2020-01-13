@@ -1,0 +1,1 @@
+Ermittelt wird der Spine, indem man den Pfeil auf zwei Stützen mit definiertem Abstand auflegt und ein zugehöriges Gewicht in der Pfeilmitte anhängt oder auflegt.

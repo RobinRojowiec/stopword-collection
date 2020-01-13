@@ -1,0 +1,1 @@
+Bewertung von Innenwiderstand, aktueller Ladezustand in Volt, Ladezustand in Prozent und maximal möglicher (Kalt-) Startstrom (CCA/CA) in Ampere.

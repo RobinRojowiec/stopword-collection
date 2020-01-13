@@ -1,0 +1,1 @@
+Verschiedene Lorenzkurven – gleicher Gini-Koeffizient Im Fall des Gini-Koeffizienten gibt es beispielsweise zu fast jeder Lorenzkurve mindestens eine andere Lorenzkurve mit exakt dem gleichen Gini-Wert.

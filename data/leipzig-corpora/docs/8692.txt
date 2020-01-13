@@ -1,0 +1,1 @@
+Sind weniger als 4 Spieler am Spiel beteiligt, werden die Aufgaben so angepasst, dass sie mit weniger Spielern gelöst werden können.

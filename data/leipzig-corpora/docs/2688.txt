@@ -1,0 +1,1 @@
+Der Übergang von einer typischen Ionisationsbipolröhre mit Betriebsspannungen unter 3 kV zu einer Ozon bildenden Bipolröhre über 3 kV ist hierbei fließend und nur durch die Höhe der Betriebsspannung definiert.

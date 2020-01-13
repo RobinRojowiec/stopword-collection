@@ -1,0 +1,1 @@
+Positive Signale zeigen jetzt an, ob das entsprechende Gen im untersuchten Gewebe exprimiert wird.

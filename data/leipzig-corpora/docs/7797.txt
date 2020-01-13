@@ -1,0 +1,1 @@
+Neuerungen waren unter anderem Cover Flow für besuchte Websites, eine so genannte TopSite-Funktion, die die meistbesuchten Websites in einer grafischen Übersicht darstellt, und eine Suchfunktion, die diese Webseiten durchsucht.

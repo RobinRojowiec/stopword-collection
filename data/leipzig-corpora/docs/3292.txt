@@ -1,0 +1,1 @@
+Die Idealklassengruppe misst, wie weit der Ganzheitsring davon entfernt ist, eine eindeutige Primfaktorzerlegung zu besitzen.

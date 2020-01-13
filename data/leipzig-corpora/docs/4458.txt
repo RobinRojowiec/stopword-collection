@@ -1,0 +1,1 @@
+Eine weitere Möglichkeit, die Decodierungsleistung zu verbessern, besteht in dem Umstand, dass in realen Nachrichtensystemen der Decoder die einzelnen Codewörter im Regelfall nicht als binäre, sondern als mehrstufige Signale erhält.

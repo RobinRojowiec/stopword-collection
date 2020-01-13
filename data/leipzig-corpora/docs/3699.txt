@@ -1,0 +1,1 @@
+Diese Methode ist deshalb nur zu empfehlen, wenn man den Prozess ohnehin auf einem sehr feinen Zeitgitter simulieren möchte.

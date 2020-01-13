@@ -1,0 +1,1 @@
+Mit dieser Technik ist es möglich, im Lotus-Notes-8-Client die Sametime-Awareness eines Benutzers mit dem vollen Funktionsumfang von Sametime 7.5.x zu benutzen.

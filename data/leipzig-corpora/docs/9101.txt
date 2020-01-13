@@ -1,0 +1,1 @@
+Um die Vignettierung (Abdunkelung der Ecken) zu reduzieren, wird der Hauptspiegel im Durchmesser größer ausgeführt als die Teleskopöffnung (siehe Abbildung).

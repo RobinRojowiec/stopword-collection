@@ -1,0 +1,1 @@
+Es wird außerdem noch unterschieden, ob Gegenstände strikt an eine Spielfigur gebunden sind (üblicherweise), oder ob es möglich ist, trotz Soulbinding Gegenstände an andere Spielfiguren desselben Accounts zu vergeben.

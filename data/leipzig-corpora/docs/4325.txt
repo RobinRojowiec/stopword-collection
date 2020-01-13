@@ -1,0 +1,1 @@
+Ein auf den ersten Blick anderes Thema behandelt Euklid im 10. Buch und beweist: Es gibt keinen Bruch, welcher die Gleichung löst.

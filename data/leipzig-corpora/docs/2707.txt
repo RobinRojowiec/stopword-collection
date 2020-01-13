@@ -1,0 +1,1 @@
+Der Verschluss rotiert nun um 90° zurück, so dass das Geschoss mit dem Rohr der Waffenanlage fluchtend ist.

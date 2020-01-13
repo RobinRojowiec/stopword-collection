@@ -1,0 +1,1 @@
+YaST4Debian Der Lizenzwechsel von YaST hin zu Freier Software ermöglicht fortan die Portierung zu anderen Linux-Distributionen.

@@ -1,0 +1,1 @@
+Nach Burns ist die Anordnung der Reihen wie bei Wassen, es sind maximal fünf Steine in der ersten Spalte, drei in der zweiten und zwei in der dritten (mit maximal 10 Steinen in jeder Reihe).

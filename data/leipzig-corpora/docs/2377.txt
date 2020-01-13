@@ -1,0 +1,1 @@
+Der dargestellte Kraftwerksblock ist nicht schwarzstartfähig und benötigt zum Anfahren die rechts oben eingezeichnete extern zugeführte 110 kV-Anspeisung.

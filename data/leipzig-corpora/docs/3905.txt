@@ -1,0 +1,1 @@
+Die Sortierung der Fahrer in der Einzelergebnisübersicht erfolgt nach den Platzierungen.

@@ -1,0 +1,1 @@
+Der Client muss mit festgelegten Zeichenfolgen auf die Statusmeldungen reagieren.

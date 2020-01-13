@@ -1,0 +1,1 @@
+Smuxi kann sich sowohl mit einer lokalen Engine als auch einer entfernten Engine unter der Benutzung eines Drop-Down Menüs (ähnlich wie screen in Benutzung mit irssi) verbinden.

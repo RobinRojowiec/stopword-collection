@@ -1,0 +1,1 @@
+Ereignisse durchlaufen eine sogenannte "Responder-Chain", deren Glieder Objekte unterschiedlicher Klassen sind.

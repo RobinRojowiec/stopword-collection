@@ -1,0 +1,1 @@
+Versierte Spieler spielen nach Möglichkeit Karten aus Kartenkombinationen, die sie auf der Hand haben.

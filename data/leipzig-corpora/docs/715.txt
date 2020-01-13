@@ -1,0 +1,1 @@
+Anstatt der CRL kann auch eine Positivliste, die sogenannte White-List verwendet werden, in die nur alle zum aktuellen Zeitpunkt gültigen Zertifikate eingetragen werden.

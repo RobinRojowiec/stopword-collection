@@ -1,0 +1,1 @@
+Um die dabei entstehenden Ausdrücke wieder durch die Standardbasis auszudrücken, sind die Identitäten : und : wichtig.

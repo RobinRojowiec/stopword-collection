@@ -1,0 +1,1 @@
+Die Formzahl setzt nun die höchste in der Kerbe vorliegende Spannung in ein Verhältnis zur Nennspannung: : Dabei ist : die Spannungsspitze : die Nennspannung.

@@ -1,0 +1,1 @@
+Publikationsdaten werden im BibTeX -Format gespeichert.

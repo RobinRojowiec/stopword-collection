@@ -1,0 +1,1 @@
+Die asymptotische Verzerrung ist gerade die Zahl der zu schätzenden Parameter.

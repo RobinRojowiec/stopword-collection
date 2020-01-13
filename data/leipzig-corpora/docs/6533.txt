@@ -1,0 +1,1 @@
+In erster Ordnung unkorrelierte, aber abhängige Risiken würden bei der Aggregation vernachlässigt.

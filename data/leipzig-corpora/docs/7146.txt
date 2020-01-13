@@ -1,0 +1,1 @@
+Lokalize mit einer geöffneten PO Datei Lokalize ist ein grafisches Tool für KDE zur Bearbeitung und Verwaltung von gettext PO Dateien.

@@ -1,0 +1,1 @@
+Octave-Script für Richtungsfeld Das Script für GNU Octave zeichnet ein Richtungsfeld für eine Differentialgleichung ersten Grades.

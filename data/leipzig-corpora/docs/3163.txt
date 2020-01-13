@@ -1,0 +1,1 @@
+Die folgenden Tabellen beschreiben die in ETSI EN 300 706 definierten 7-Bit- Zeichensätze des in Europa verwendeten Teletext -Standards.

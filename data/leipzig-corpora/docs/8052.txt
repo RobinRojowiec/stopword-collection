@@ -1,0 +1,1 @@
+;Proxyfilter:Ein Proxyfilter stellt stellvertretend für den anfragenden Client die Verbindung mit dem Zielsystem her und leitet die Antwort des Zielsystems an den tatsächlichen Client weiter.

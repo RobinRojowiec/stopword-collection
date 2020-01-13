@@ -1,0 +1,1 @@
+Vergleich mit Rot-Schwarz-Baum Die Menge der AVL-Bäume ist eine echte Teilmenge in der Menge der Rot-Schwarz-Bäume.

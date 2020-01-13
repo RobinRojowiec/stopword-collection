@@ -1,0 +1,1 @@
+Wenn die Anwendungen nur bei bestehender Verbindung ablauffähig sind, kann der Inhalte-Anbieter so Abonnements auf die Anwendungen steuern (i-mode subscription model).

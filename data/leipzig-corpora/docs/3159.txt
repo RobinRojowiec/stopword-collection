@@ -1,0 +1,1 @@
+Die Flugkontrollrechner (FCC) des EFA sollten die Bewegungs- und Luftdaten über Datenbusse an andere Subsysteme senden können.

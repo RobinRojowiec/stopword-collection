@@ -1,0 +1,1 @@
+Sequenzdiagramme und ähnliche Prozessflussdiagramme dienen dem Entwurf solcher Systeme.

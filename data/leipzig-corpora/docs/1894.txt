@@ -1,0 +1,1 @@
+Das „Compatible“ im Namen bezog sich auf die Möglichkeit, eine unveränderte Kopie des Fortran Monitor Systems (FMS) im Hintergrund auszuführen.

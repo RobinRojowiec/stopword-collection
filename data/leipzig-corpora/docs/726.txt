@@ -1,0 +1,1 @@
+Anzeigenverkauf Anzeigenabteilungen akquirieren Anzeigenkunden, verkaufen Anzeigen und bearbeiten die Aufträge (Anzeigendisposition) bis zur Drucklegung.

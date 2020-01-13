@@ -1,0 +1,1 @@
+Rekursionsrelation Orthogonale Polynome erfüllen eine dreistufige Rekursionsrelation : (wobei im Fall zu setzen ist) mit : und den Konstanten aus dem vorherigen Abschnitt.

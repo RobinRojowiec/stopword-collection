@@ -1,0 +1,1 @@
+Konvertierungsprogramme und solche mit lediglich einer Ausgabe im Format EPUB verstehen zumeist den Inhalt nicht und sind daher meist nicht in der Lage, den Inhalt optimal zu strukturieren.

@@ -1,0 +1,1 @@
+Die photoakustische Tomografie (PAT) arbeitet mit sehr schnellen Laserpulsen (kleiner als zehn Nanosekunden), die im zu untersuchenden Gewebe Ultraschall erzeugen.

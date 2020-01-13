@@ -1,0 +1,1 @@
+Diese ermöglichen zum Beispiel Messungen in automatisierten Testumgebungen.

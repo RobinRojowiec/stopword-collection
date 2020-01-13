@@ -1,0 +1,1 @@
+Teilweise lässt sich dies vermeiden, indem der MOSFET im Moment des Leitens der Bodydiode eingeschaltet wird, wodurch er den Stromfluss der Diode übernimmt und diese sich bereits erholen kann.

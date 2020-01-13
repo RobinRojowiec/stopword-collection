@@ -1,0 +1,1 @@
+Wenn zwei Tasten zusammen angeschlagen wurden, wird die gesamte Tastatur für die Zeit einer Umdrehung der Antriebswalze blockiert.

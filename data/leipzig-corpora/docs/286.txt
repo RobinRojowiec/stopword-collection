@@ -1,0 +1,1 @@
+Als Beispiel möge der schrittweise Übergang vom Punkt (0D) zu 3D und 4D dienen: ;Dimension 0 Ein Punkt ohne Ausdehnung (ein Kreis mit Radius 0).

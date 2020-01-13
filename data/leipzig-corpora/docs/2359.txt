@@ -1,0 +1,1 @@
+Der Breitengrad mit maximalem Tagesmittel der Insolation ist aber nicht der subsolare Breitengrad, sondern umso weiter polwärts (zu größeren Tageslängen) verschoben, je größer der Betrag der subsolaren Breite ist.

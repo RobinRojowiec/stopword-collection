@@ -1,0 +1,1 @@
+Als Compiler dient in dieser Version erstmals ein GCC 4.0, der weitere Optimierungen ermöglichte.

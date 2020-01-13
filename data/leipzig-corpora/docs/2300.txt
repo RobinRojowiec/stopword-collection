@@ -1,0 +1,1 @@
+Der Absolutwert des Modul entspricht immer der Anzahl der Restklassen.

@@ -1,0 +1,1 @@
+Die Übergabe von Parametern an Unterprogramme (SUBROUTINE oder FUNCTION) erfolgt üblicherweise per Adresse.

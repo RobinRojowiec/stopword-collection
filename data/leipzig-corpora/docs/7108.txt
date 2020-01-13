@@ -1,0 +1,1 @@
+Liegt die Tageslänge beispielsweise längere Zeit um 2 ms über dem Sollwert, so gerät die Erdrotation gegenüber einer konstant gehenden Atomuhr mit jedem Tag um 2 ms mehr in Verzug.

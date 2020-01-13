@@ -1,0 +1,1 @@
+OpenTherm Smart Power kann auf Anforderung durch den Master 136 mW (MediumPower 17 mA/8 V) oder 306 mW (HighPower 17 mA/18 V) zur Verfügung stellen.

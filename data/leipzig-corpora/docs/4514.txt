@@ -1,0 +1,1 @@
+Ein Kandidat ist noch kein Freibauer, denn die Linie vor ihm ist zwar frei von schwarzen Bauern, aber auf der Linie links oder rechts von ihm befindet sich noch mindestens ein Wächter.

@@ -1,0 +1,1 @@
+Messungen auf einem Vierkernprozessor aus dem Jahr 2011 (i5-2300) ergaben, dass FractInt etwa zwei Prozent der Gleitkomma-Rechenleistung des Prozessors nutzt (Julia-Menge).

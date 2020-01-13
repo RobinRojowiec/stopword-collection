@@ -1,0 +1,1 @@
+Liste der Testflugzeuge 1 Manufacturer Serial Number: Hersteller-Seriennummer 2 Die zwei letzten Ziffern geben bei Airbus normalerweise den Triebwerkstyp und dessen Unterversion an; die Strukturtestzellen wurden jedoch nicht mit Triebwerken ausgerüstet.
